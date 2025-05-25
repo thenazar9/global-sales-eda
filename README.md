@@ -1,6 +1,6 @@
 # 📊 Global Sales Data — Exploratory Data Analysis
 
-This portfolio project presents an **exploratory data analysis (EDA)** of global sales data from a company operating in both **online and offline** markets.
+This project presents an **exploratory data analysis (EDA)** of global sales data from a company operating in both **online and offline** markets.
 
 ### 📁 Dataset Structure
 
